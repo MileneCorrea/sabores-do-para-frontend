@@ -393,3 +393,36 @@ h2{
     justify-content: center;
 }
 
+/* ==========================================================
+   RESPONSIVIDADE AUTOMÁTICA PARA DISPOSITIVOS MÓVEIS
+   ========================================================== */
+@media (max-width: 768px) {
+  .portal-container {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "header"
+      "main-story"
+      "news-grid"
+      "sidebar"
+      "footer";
+  }
+ 
+  .portal-header {
+    flex-direction: column;
+    gap: 16px;
+    text-align: center;
+    padding: 20px;
+  }
+ 
+  .nav-menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+ 
+  .nav-menu a {
+    margin-left: 0;
+  }
+}
+
