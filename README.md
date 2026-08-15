@@ -1,4 +1,4 @@
-# 🍲 Sabores do Pará - Front-End
+# 🍲 Sabores do Pará - Landing-Page
 
 Este é o projeto de interface web desenvolvido para o curso de Front-End. O objetivo do sistema é mapear e divulgar a culinária paraense, permitindo a visualização de pratos típicos e restaurantes locais.
 
