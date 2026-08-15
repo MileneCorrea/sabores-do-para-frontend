@@ -162,6 +162,11 @@ body {
     box-shadow: var(--sombra);
 }
 
+.banner p a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .banner-conteudo{
     flex:1;
     display: flex;
@@ -305,7 +310,7 @@ h2{
 }
  
 .pratos article a:hover {
-    background: var(--cor-principal-hover);
+    background: var(--cor-verde-jambu);
     transform: translateY(var(--deslocamento));
     box-shadow: var(--sombra);
 }
@@ -395,7 +400,7 @@ h2{
 }
 
 .rodape-copy p {
-    color: #4a7a5a;
+    color: #a0b890;
     font-size: 0.8rem;
     justify-content: center;
 }
@@ -450,7 +455,7 @@ KEYFRAME  ANIMAÇÃO
     }
 
     .teg {
-        font-size: 0.7rem;
+        font-size: 0.65rem;
         padding: 4px 10px;
     }
 
