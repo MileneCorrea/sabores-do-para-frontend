@@ -2,7 +2,7 @@
 
 Este é o projeto de interface web desenvolvido para o curso de Front-End. O objetivo do sistema é mapear e divulgar a culinária paraense, permitindo a visualização de pratos típicos e restaurantes locais.
 
-🚀 **[CLIQUE AQUI PARA ACESSAR O SITE](https://milenecorrea.github.io/sabores-do-para-frontend/)**
+🚀 **[CLIQUE AQUI PARA ACESSAR O SITE](https://milenecorrea.github.io/sabores-do-para-landing-page/)**
 
 ---
 
